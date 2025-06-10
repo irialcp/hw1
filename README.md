@@ -1,0 +1,5 @@
+- `public/`: File statici e immagini
+- `css/`: Fogli di stile
+- `js/`: Script JavaScript
+- `includes/`: File PHP inclusi
+- `api/`: Endpoint API
